@@ -10,7 +10,7 @@ const sendEmail = async (options) => {
       pass: process.env.EMAIL_PASSWORD,
     },
     secure: false,
-    logger: true,
+    // logger: true,
     // Activate in gmail "less secure app" option
   });
 
