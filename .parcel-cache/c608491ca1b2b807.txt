@@ -19,17 +19,17 @@
 111D:\develop\code\web\natours-node-project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133463698301936426 0
 50D:\develop\code\web\natours-node-project\public\js133466926810450022 1
 108D:\develop\code\web\natours-node-project\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133463698268915082 0
-47D:\develop\code\web\natours-node-project\app.js133466963054101784 0
+47D:\develop\code\web\natours-node-project\app.js133469374616282829 0
 84D:\develop\code\web\natours-node-project\node_modules\xterm\lib\ui\ColorManager.d.ts133463698329246477 0
 123D:\develop\code\web\natours-node-project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Value.js133463698315741902 0
 86D:\develop\code\web\natours-node-project\node_modules\open\node_modules\.bin\is-docker133463698428911917 0
 50D:\develop\code\web\natours-node-project\.cache\ac133462604257984899 1
-53D:\develop\code\web\natours-node-project\package.json133466962533127545 0
+53D:\develop\code\web\natours-node-project\package.json133467584111420959 0
 99D:\develop\code\web\natours-node-project\node_modules\es-abstract\2019\OrdinaryDefineOwnProperty.js133463698372580108 0
 57D:\develop\code\web\natours-node-project\public\tour.html132475715290000000 0
 117D:\develop\code\web\natours-node-project\node_modules\sharp\vendor\8.12.2\win32-x64\include\libxml2\libxml\xmlerror.h132881312790000000 0
 101D:\develop\code\web\natours-node-project\node_modules\node-abi\node_modules\semver\functions\major.js133464166013261005 0
-51D:\develop\code\web\natours-node-project\.gitignore133435896161397737 0
+51D:\develop\code\web\natours-node-project\.gitignore133466968870782475 0
 83D:\develop\code\web\natours-node-project\node_modules\string.prototype.trim\LICENSE133463698244891472 0
 58D:\develop\code\web\natours-node-project\views\_header.pug132475715290000000 0
 77D:\develop\code\web\natours-node-project\node_modules\es-abstract\2020\Day.js133463698340662226 0
@@ -61,7 +61,7 @@
 108D:\develop\code\web\natours-node-project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean133463698293387120 1
 55D:\develop\code\web\natours-node-project\.eslintrc.json133435717909947664 0
 92D:\develop\code\web\natours-node-project\node_modules\stripe\types\Apps\SecretsResource.d.ts133466923182546197 0
-51D:\develop\code\web\natours-node-project\config.env133466787080207389 0
+51D:\develop\code\web\natours-node-project\config.env133468540186440278 0
 89D:\develop\code\web\natours-node-project\node_modules\es6-promise\lib\es6-promise\asap.js133463698276207222 0
 76D:\develop\code\web\natours-node-project\node_modules\mongoose\lib\driver.js133463698309360180 0
 50D:\develop\code\web\natours-node-project\.cache\b7133462604258817921 1
@@ -168,7 +168,7 @@
 64D:\develop\code\web\natours-node-project\node_modules\proxy-addr133463698247668443 1
 87D:\develop\code\web\natours-node-project\node_modules\xterm\src\renderer\atlas\Types.ts133463698341150649 0
 76D:\develop\code\web\natours-node-project\node_modules\xterm\lib\Clipboard.js133463698307242957 0
-50D:\develop\code\web\natours-node-project\server.js133466964217571645 0
+50D:\develop\code\web\natours-node-project\server.js133469381909505279 0
 143D:\develop\code\web\natours-node-project\node_modules\sharp\vendor\8.12.2\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-autocleanups.h132881312790000000 0
 85D:\develop\code\web\natours-node-project\node_modules\css-tree\lib\parser\sequence.js133463698331815118 0
 100D:\develop\code\web\natours-node-project\node_modules\css-tree\cjs\syntax\node\MediaFeatureRange.cjs133463698304051138 0
@@ -18736,7 +18736,7 @@
 77D:\develop\code\web\natours-node-project\node_modules\axios\lib\core\Axios.js133463698271916004 0
 84D:\develop\code\web\natours-node-project\node_modules\axios\lib\core\AxiosHeaders.js133463698276596701 0
 85D:\develop\code\web\natours-node-project\node_modules\axios\lib\core\buildFullPath.js133463698281323018 0
-70D:\develop\code\web\natours-node-project\controllers\authController.js133466963823484250 0
+70D:\develop\code\web\natours-node-project\controllers\authController.js133469381809536978 0
 87D:\develop\code\web\natours-node-project\node_modules\axios\lib\core\dispatchRequest.js133463698286247860 0
 127D:\develop\code\web\natours-node-project\node_modules\@parcel\transformer-react-refresh-wrap\src\ReactRefreshWrapTransformer.js133463698254594902 0
 90D:\develop\code\web\natours-node-project\node_modules\axios\lib\core\InterceptorManager.js133463698293953478 0
