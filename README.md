@@ -4,7 +4,7 @@ This is final project of jonas' Node.js course.
 
 The Postman API Docuement is here: https://documenter.getpostman.com/view/26358754/2s9YeK4q9h
 
-The Project deployed on _render_, and can preview from here:https://natours-s7l4.onrender.com/
+The Project deployed on _render_, and can preview from here: https://natours-s7l4.onrender.com/
 
 ## Tech Stack
 
